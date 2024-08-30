@@ -1,0 +1,99 @@
+.property-grid {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+.search-container {
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+}
+
+.search-input {
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  flex: 1;
+}
+
+.clear-button {
+  margin-left: 10px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  background-color: #f44336;
+  color: white;
+  cursor: pointer;
+}
+
+.clear-button:hover {
+  background-color: #d32f2f;
+}
+
+.property-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.property-table th,
+.property-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
+
+.property-table th {
+  background-color: #f4f4f4;
+}
+
+.property-table tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+.action-button {
+  border: none;
+  background: none;
+  cursor: pointer;
+  color: #007bff;
+  font-size: 18px;
+  margin: 0 5px;
+}
+
+.action-button:hover {
+  color: #0056b3;
+}
+
+.delete-button {
+  color: #dc3545;
+}
+
+.delete-button:hover {
+  color: #c82333;
+}
+
+.pagination {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.pagination-button {
+  border: 1px solid #ddd;
+  padding: 10px 15px;
+  margin: 0 5px;
+  background-color: #f4f4f4;
+  cursor: pointer;
+}
+
+.pagination-button.active {
+  background-color: #007bff;
+  color: white;
+  border-color: #007bff;
+}
+
+.pagination-button:hover {
+  background-color: #ddd;
+}

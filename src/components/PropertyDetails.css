@@ -1,0 +1,66 @@
+.property-details-container {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.property-title {
+  font-size: 24px;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.property-info {
+  background-color: #f9f9f9;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.property-info-item {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 0;
+  border-bottom: 1px solid #ddd;
+}
+
+.property-info-item:last-child {
+  border-bottom: none;
+}
+
+.property-info-label {
+  font-weight: bold;
+  color: #555;
+}
+
+.property-info-value {
+  color: #333;
+}
+
+.back-button {
+  display: inline-block;
+  padding: 10px 20px;
+  margin-top: 20px;
+  font-size: 16px;
+  color: #fff;
+  background-color: #007bff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.back-button:hover {
+  background-color: #0056b3;
+}
+
+.error-message {
+  color: red;
+  font-size: 18px;
+}
+
+.loading-message {
+  font-size: 18px;
+  color: #666;
+}

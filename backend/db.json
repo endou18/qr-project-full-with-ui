@@ -1,0 +1,224 @@
+{
+  "properties": [
+    {
+      "id": "12348",
+      "title": "Spacious 3 Bedroom Apartment with Sea View",
+      "description": "A modern 3-bedroom apartment located in the heart of the city with a stunning view of the sea. Close to amenities and public transport.",
+      "location": {
+        "address": "123 Ocean Drive, Miami, FL 33139",
+        "city": "Miami",
+        "state": "Florida",
+        "zip_code": "33139",
+        "country": "USA"
+      },
+      "wifi-details": {
+        "wifiName": "wifi1",
+        "wifiPassword": "wifi1password"
+      },
+      "price": {
+        "amount": 750000,
+        "currency": "USD"
+      },
+      "type": "Villa",
+      "status": "Available",
+      "features": {
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "floor_area": {
+          "value": 1500,
+          "unit": "sq_ft"
+        },
+        "lot_size": {
+          "value": 2000,
+          "unit": "sq_ft"
+        },
+        "year_built": 2015,
+        "parking": 2,
+        "heating": "Central",
+        "cooling": "Central Air",
+        "pets_allowed": true,
+        "furnished": true,
+        "hoa_fees": {
+          "amount": 400,
+          "currency": "USD",
+          "frequency": "monthly"
+        },
+        "amenities": [
+          "Swimming Pool",
+          "Gym",
+          "Sauna",
+          "Elevator",
+          "24/7 Security"
+        ]
+      },
+      "splash-page": [
+        {
+          "logo": "https://imgs.search.brave.com/DodsUUcVmodmtiBKLie5umOlRW6zZYxbFW77XXmvspA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtcGxhdGZvcm0u/OTlzdGF0aWMuY29t/Ly9pYTIxaFB5blJk/U2xoMVVPYXhaMS1Y/WHFIeXM9LzB4MDo5/NjB4OTYwL2ZpdC1p/bi81MDB4NTAwLzk5/ZGVzaWducy1jb250/ZXN0cy1hdHRhY2ht/ZW50cy85NC85NDk5/OC9hdHRhY2htZW50/Xzk0OTk4NTI3",
+          "background_img" :"https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg?cs=srgb&dl=pexels-pixabay-531880.jpg&fm=jpg",
+          "title": "Get started with Wifi",
+          "description1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+          "description2": "Living room with sea view",
+          "description3": "Living room with sea view",
+          "virtual_tour_url": "https://example.com/virtual-tour",
+          "video_url": "https://example.com/video-tour"
+        }
+      ]
+    },
+    {
+      "id": "12347",
+      "title": "Bedroom Apartment with Sea View",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "location": {
+        "address": "123 Ocean Drive, Miami, FL 33139",
+        "city": "Miami",
+        "state": "Florida",
+        "zip_code": "33139",
+        "country": "USA"
+      },
+      "wifi-details": {
+        "wifiName": "LakeView_Cabin",
+        "wifiPassword": "H2v8@LmQ3yX$"
+      },
+      "price": {
+        "amount": 750000,
+        "currency": "USD"
+      },
+      "type": "Villa",
+      "status": "Available",
+      "features": {
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "floor_area": {
+          "value": 1500,
+          "unit": "sq_ft"
+        },
+        "lot_size": {
+          "value": 2000,
+          "unit": "sq_ft"
+        },
+        "year_built": 2015,
+        "parking": 2,
+        "heating": "Central",
+        "cooling": "Central Air",
+        "pets_allowed": true,
+        "furnished": true,
+        "hoa_fees": {
+          "amount": 400,
+          "currency": "USD",
+          "frequency": "monthly"
+        },
+        "amenities": [
+          "Swimming Pool",
+          "Gym",
+          "Sauna",
+          "Elevator",
+          "24/7 Security"
+        ]
+      },
+      "splash-page": [
+        {
+          "logo": "https://img.freepik.com/free-vector/bird-colorful-logo-gradient-vector_343694-1365.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1724889600&semt=ais_hybrid",
+          "background_img" :"https://img.freepik.com/free-vector/gradient-dynamic-blue-lines-background_23-2148995756.jpg",
+          "title": "Get started with Wifi",
+          "description1": "Living room with sea view",
+          "description2": "Living room with sea view",
+          "description3": "Living room with sea view",
+          "virtual_tour_url": "https://example.com/virtual-tour",
+          "video_url": "https://example.com/video-tour"
+        }
+      ]
+    }
+  ],
+  "connect": [
+    {
+      "id": "738",
+      "firstName": "Rajkumar",
+      "lastName": "Shaw",
+      "email": "rajkumarshaw653@gmail.com"
+    },
+    {
+      "id": "7dea",
+      "firstName": "Rajkumar",
+      "lastName": "Shaw",
+      "email": "rajkumarshaw624@gmail.com"
+    },
+    {
+      "id": "0410",
+      "firstName": "test",
+      "lastName": "test",
+      "email": "fdfd@gmail.com"
+    },
+    {
+      "id": "b035",
+      "firstName": "test",
+      "lastName": "test",
+      "email": "fdfd@gmail.com"
+    },
+    {
+      "id": "e644",
+      "firstName": "test",
+      "lastName": "test",
+      "email": "fdfd@gmail.com"
+    },
+    {
+      "id": "7cc3",
+      "firstName": "test",
+      "lastName": "test",
+      "email": "fdfd@gmail.com"
+    },
+    {
+      "id": "d5d7",
+      "firstName": "test",
+      "lastName": "test",
+      "email": "fdfd@gmail.com"
+    },
+    {
+      "id": "b081",
+      "firstName": "Rajkumar",
+      "lastName": "Shaw",
+      "email": "rajkumarshaw624@gmail.com"
+    },
+    {
+      "id": "bc49",
+      "firstName": "Rajkumar",
+      "lastName": "Shaw",
+      "email": "rajkumarshaw624@gmail.com"
+    },
+    {
+      "id": "38d6",
+      "firstName": "Rajkumar",
+      "lastName": "Shaw",
+      "email": "rajkumarshaw624@gmail.com"
+    },
+    {
+      "id": "2e3e",
+      "firstName": "Rajkumar",
+      "lastName": "Shaw",
+      "email": "rajkumarshaw624@gmail.com"
+    },
+    {
+      "id": "73e9",
+      "firstName": "Rajkumar",
+      "lastName": "Shaw",
+      "email": "rajkumarshaw624@gmail.com"
+    },
+    {
+      "id": "ff72",
+      "firstName": "Rajkumar",
+      "lastName": "Show",
+      "email": "test@gmail.com"
+    },
+    {
+      "id": "964f",
+      "firstName": "sagar",
+      "lastName": "kr",
+      "email": "sagar@gmail.com"
+    },
+    {
+      "id": "2a20",
+      "firstName": "Rajkumar",
+      "lastName": "Show",
+      "email": "gffgg@gmail.ccom"
+    }
+  ]
+}
